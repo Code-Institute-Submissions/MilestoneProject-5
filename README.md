@@ -60,9 +60,10 @@ This project was created with the following technologies:
     - **Font awsome**: A tool that contains font icons and social logos for a website
 
  - [W3C Schools](https://www.w3schools.com/)
-    - **W3C Schools**:
+    - **W3C Schools**: Web Developer informative Site
+
  - [StackOverflow](https://es.stackoverflow.com/)
-    - **Stack Overflow**
+    - **Stack Overflow**: An informative website for professional and hobbyist programmers.
 
 
 
@@ -91,6 +92,7 @@ If this section grows too long, you may want to split it off into a separate fil
 This project was create on Github using a newly repository. 
 
 ## Wireframes ##
+I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clearer idea of the project
 
 ![image](https://user-images.githubusercontent.com/62361039/95846445-b7113a80-0d4b-11eb-8ef0-8e32b767546e.png)
 
@@ -113,6 +115,7 @@ This project was create on Github using a newly repository.
 - [thescenenenewyork](https://www.instagram.com/thescenenewyork/?hl=es)
 - [Ysabel](https://www.instagram.com/ysabelwesthollywood/?hl=es)
 - [LateraViva](https://www.instagram.com/letteraviva/?hl=es)
+
 ### Inspitional Sourses 
 
 I received inspiration for this project from the following pages:
@@ -123,12 +126,11 @@ I received inspiration for this project from the following pages:
 
 - [Alma](https://www.alma.ie/jobs/)
 
-### Acknowlegments 
+### Acknowledgements 
 
-• I would like to say thank you to my mentor for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
+• I would like to say thank you to my mentor [Can Sucullu](@cans_mentor) for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
 
- • Thank you Codelnstitute's Slack community for the support
-
+ • Thank you Codelnstitute's Slack community for the support.
 
 
 
