@@ -1,10 +1,8 @@
 ![image](https://user-images.githubusercontent.com/62361039/95846229-7ca79d80-0d4b-11eb-9f72-0b8d14ac53c2.png)
 
-# `GEMMA COFFE & BAKERY`
+# `GEMMA COFFEE & BAKERY`
 
 This project is about a website for a coffee business. The purpose of this page is to publicize the products and services as well as attract new customers
-
-
 
 ## UX
 
@@ -43,12 +41,27 @@ This project was created with the following technologies:
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
-    - **HTML** the language used to create  and add the content to the website
-    - **CSS** The language to desing the page and add the stylish to HTML content 
-    - **Bootstrap frameworks** Build fast, responsive sites with design and responsive mobile-first sites. 
-    - **Google fonts** 
-    - **Font awsome**
-    - **W3C Schools**
+
+ -  [HTML](https://es.wikipedia.org/wiki/HTML) 
+    - **HTML**: The language used to create  and add the content to the website
+
+ - [CSS](https://en.wikipedia.org/wiki/CSS)   
+    - **CSS**:The language to desing the page and add the stylish to HTML content 
+
+ - [BootstrapFrameworks](https://getbootstrap.com/)  
+    - **Bootstrap frameworks**: Build fast, responsive sites with design and responsive mobile-first sites. 
+
+ - [Balsamic](https://balsamiq.com/) 
+    - **Balsamic**: The tool that allows you to prototype your projects.
+ - [GoogleFonts](https://fonts.google.com/)  
+
+    - **Google fonts**: Essential typography resource for digital creatives.
+ - [FontAwsome](https://fontawesome.com/)
+    - **Font awsome**: A tool that contains font icons and social logos for a website
+
+ - [W3C Schools](https://www.w3schools.com/)
+    - **W3C Schools**:
+ - [StackOverflow](https://es.stackoverflow.com/)
     - **Stack Overflow**
 
 
@@ -77,23 +90,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 This project was create on Github using a newly repository. 
 
-
-## Credits
- • I would like to say thank you to my mentor for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
- • Thank you Codelnstitute's Slack community for the support
-
-
-### Content
-- This webpage is completely fictional and was created by myself.
-### Media
-- The photos used in this site were obtained from instagram 
-
-### Acknowledgements
-
-  - I received inspiration for this project from the following pages:
-
-
 ## Wireframes ##
+
 ![image](https://user-images.githubusercontent.com/62361039/95846445-b7113a80-0d4b-11eb-8ef0-8e32b767546e.png)
 
 
@@ -102,7 +100,34 @@ This project was create on Github using a newly repository.
 ![image](https://user-images.githubusercontent.com/62361039/95841575-cee5c000-0d45-11eb-9532-9d72da493644.png)
 
 
+## Credits
 
+### Content
+- This webpage is completely fictional and was created by myself.
+
+### Media
+- The photos used in this site are ramdom and obtained from publics instagram accounts: 
+- [wifemamafoodie](https://www.instagram.com/wifemamafoodie/?hl=es)
+- [tiendacafear](https://www.instagram.com/tiendadecafear/?hl=es)
+- [ashesupplyco.](https://www.instagram.com/explore/tags/ashesuppyco/?hl=es)
+- [thescenenenewyork](https://www.instagram.com/thescenenewyork/?hl=es)
+- [Ysabel](https://www.instagram.com/ysabelwesthollywood/?hl=es)
+- [LateraViva](https://www.instagram.com/letteraviva/?hl=es)
+### Inspitional Sourses 
+
+I received inspiration for this project from the following pages:
+
+- [Starbucks](https://www.starbucks.es/)
+
+- [Syra Coffee](https://syra.coffee/)
+
+- [Alma](https://www.alma.ie/jobs/)
+
+### Acknowlegments 
+
+• I would like to say thank you to my mentor for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
+
+ • Thank you Codelnstitute's Slack community for the support
 
 
 
