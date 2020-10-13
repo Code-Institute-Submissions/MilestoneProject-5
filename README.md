@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/62361039/95843571-24bb6780-0d48-11eb-9e1c-71e25ed85aed.png)
-
+![image](https://user-images.githubusercontent.com/62361039/95846229-7ca79d80-0d4b-11eb-9f72-0b8d14ac53c2.png)
 
 # `GEMMA COFFE & BAKERY`
 
@@ -95,11 +94,13 @@ This project was create on Github using a newly repository.
 
 
 ## Wireframes ##
-![image](https://user-images.githubusercontent.com/62361039/95840676-c04ad900-0d44-11eb-9df9-aad014e5b54c.png)
+![image](https://user-images.githubusercontent.com/62361039/95846445-b7113a80-0d4b-11eb-8ef0-8e32b767546e.png)
+
 
 ![image](https://user-images.githubusercontent.com/62361039/95841474-b4abe200-0d45-11eb-9e77-8ba1bdc7fe58.png)
 
 ![image](https://user-images.githubusercontent.com/62361039/95841575-cee5c000-0d45-11eb-9532-9d72da493644.png)
+
 
 
 
