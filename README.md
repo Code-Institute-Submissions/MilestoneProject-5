@@ -122,7 +122,7 @@ Wait for the confirmation "MESSAGE".
 This project was create on Github using a newly repository. 
 
 ## Wireframes ##
-I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clearer idea of the project
+I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clear idea of the project
 
 ![image](https://user-images.githubusercontent.com/62361039/95846445-b7113a80-0d4b-11eb-8ef0-8e32b767546e.png)
 
