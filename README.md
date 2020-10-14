@@ -2,9 +2,11 @@
 
 # `GEMMA COFFEE & BAKERY`
 
-This project is about a website for a coffee business. The purpose of this page is to publicize the products and services as well as attract new customers
+GEMMA emerges from the idea of creating a pleasant space to relax, forget about time, take a break from this busy life. A place to enjoy a good cup of coffee.
+
 
 ## UX
+This project is about a website for a coffee business. The purpose of this page is to publicize the products and services as well as attract new customers
 
 **Business Goals:** 
 - Sellig and promote the products.
