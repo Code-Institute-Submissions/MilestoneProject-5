@@ -8,39 +8,49 @@ This project is about a website for a coffee business. The purpose of this page 
 
 **Business Goals:** 
 - Sellig and promote the products.
-- Atracting users and potencial clientes to visit the page 
-- Provide information about the diferent branches
+
+- Atracting users and potencial clientes to visit the page.
+
+- Provide information about the diferent branches.
+
 - Get updates about "the chossen of the months" and stay informed about the lasted news and offers. 
 
 
 **External users Goals:** 
 - Explore the page and get info about the store 
+
 - See the products and prices.
+
 - Know the different locations availables.
+
 - Leave the comments and reviwes abour the services 
+
 - Subscribe to news and promotions
 
 ## Features 
 
-- Showcase photos of coffe and bakery products and any other media to motivate people to visit the store
-- Provide details of the diferetns stores availables with mapss location, opening hours, contant details and any other external resorces 
-- Provide the contact page
-- Provide menu as a PDF 
-- Provide the links of any social media
+- Showcase photos of coffe and bakery products and any other media to motivate people to visit the store.
+
+- Provide details of the diferetns stores availables with mapss location, opening hours, contant details and any other external resorces.
+
+- Provide the contact page.
+
+- Provide menu as a PDF.
+
+- Provide the links of any social media.
 
 ## Potencial Futures to implement 
 
- - MENU: menu in a pdf form avalilable a new tab to see the products and the price
- - Location: mapss location to see the adrees of the diferentes stores and images to recognice them around the city 
- - Newletters subscription and Contact form: allow the users to be in contact throug emails, calls and stay up-to-date with the last promotions and  lasted news and events.  
+ - **MENU**: menu in a pdf form avalilable a new tab to see the products and the price.
+
+ - **Location**: mapss location to see the adrees of the diferentes stores and images to recognice them around the city.
+
+ - **Newletters** subscription and/or Contact form: allow the users to be in contact throug emails, calls and stay up-to-date with the last promotions and  lasted news and events.  
  
 
  ## Technologies Used
 
 This project was created with the following technologies:
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
 
  -  [HTML](https://es.wikipedia.org/wiki/HTML) 
     - **HTML**: The language used to create  and add the content to the website
@@ -65,27 +75,43 @@ This project was created with the following technologies:
  - [StackOverflow](https://es.stackoverflow.com/)
     - **Stack Overflow**: An informative website for professional and hobbyist programmers.
 
+- [Gitpod](https://www.gitpod.io/)
+    - **Gitpod**: Tool used to create, write and edit source code. Live pre-viewing.
+
+- [GitHub](https://github.com/)
+    - **GitHub**: Tool used to hosting the repository's projects.
+
 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+  This project was validate through [ W3 CSS validator](https://validator.w3.org/) and [W3 HTML validator](https://validator.w3.org/).
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+  #### Testing  Web-Browsers 
+     - Apple Safari
+     - Google Chrome
+ 
+     Mobile:
+      - Iphone 11
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+### Testing Features
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- **Navigation bar**: Go to the navigation bar.
+Click on "Home", "Locations" or "About us" to confirm and redirect the page to each section and view the relevant information. 
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- **Menu**: Go to the "Menu button" on the page and click there to confirm, another tab will open with a PDF preview.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- **Locations**: Go to the navigation bar and click on "Locations" the section will open with all the information required.
+
+
+- **Social media icons**: 
+Go to the footer page
+Click on the social media icons to confirm, it will open the link of each social media platform.
+
+- **Contact**: 
+Go to the navigation bar and click on "About us" the section with all the required information will open. Once there, go to the "Contact" section and fill out the form and click "Send message".
+Wait for the confirmation "MESSAGE".
 
 ## Deployment
 
@@ -109,6 +135,7 @@ I decided to use the Balsamic tool for creating mockups and wireframes. It is a 
 
 ### Media
 - The photos used in this site are ramdom and obtained from publics instagram accounts: 
+
 - [wifemamafoodie](https://www.instagram.com/wifemamafoodie/?hl=es)
 - [tiendacafear](https://www.instagram.com/tiendadecafear/?hl=es)
 - [ashesupplyco.](https://www.instagram.com/explore/tags/ashesuppyco/?hl=es)
