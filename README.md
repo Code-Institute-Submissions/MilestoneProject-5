@@ -56,7 +56,7 @@ This project was created with the following technologies:
     - **HTML**: The language used to create  and add the content to the website
 
  - [CSS](https://en.wikipedia.org/wiki/CSS)   
-    - **CSS**:The language to desing the page and add the stylish to HTML content 
+    - **CSS**: The language to desing the page and add the stylish to HTML content 
 
  - [BootstrapFrameworks](https://getbootstrap.com/)  
     - **Bootstrap frameworks**: Build fast, responsive sites with design and responsive mobile-first sites. 
