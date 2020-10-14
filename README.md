@@ -49,7 +49,7 @@ This project is about a website for a coffee business. The purpose of this page 
 
  - **Location**: mapss location to see the adrees of the diferentes stores and images to recognice them around the city.
 
- - **Newletters** subscription and/or Contact form: allow the users to be in contact throug emails, calls and stay up-to-date with the last promotions and  lasted news and events.  
+ - **Newletters subscription and/or Contact form**: Allow the users to be in contact throug emails, calls and stay up-to-date with the last promotions and  lasted news and events.  
  
 
  ## Technologies Used
