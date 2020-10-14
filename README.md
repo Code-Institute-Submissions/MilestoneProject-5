@@ -2,7 +2,8 @@
 
 # `GEMMA COFFEE & BAKERY`
 
-GEMMA emerges from the idea of creating a pleasant space to relax, forget about time, take a break from this busy life. A place to enjoy a good cup of coffee.
+GEMMA emerges from the idea of creating a pleasant space to relax, forget about time, take a break from this busy life. 
+A place to enjoy a good cup of coffee...
 
 
 ## UX
