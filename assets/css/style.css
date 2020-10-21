@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+
+html,body {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color:aliceblue;
+
+}
+
+body {
+  font-family: Lato;
+  color: #777777;
+}
+
+ h2{
+   font-family: Oswald;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   color:whitesmoke;
+   
+   
+ }
+ h3{
+   font-family: Oswald;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   color: #555555;
+   
+}
+
+ 
+
+
+/*------------Head Image Section----------*/
+
+body, html {
+  height: 95%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url('https://user-images.githubusercontent.com/62361039/96167888-4e2eeb80-0f20-11eb-90d4-02fbbc4cd460.png');
+
+  /* Full height */
+  height: 50%; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+/*----------------About section-----------------*/
+.about-section {
+    margin: 100px;
+}
+
+.about-section h2 {
+    padding-bottom: 30px;
+}
+
+.about-section p {
+    padding-bottom: 30px;
+    padding-top: 10px;
+    
+}
+
+.about-button {
+    margin: 30px;
+}
+
+
+
+/*----------------Gallery Section -----------------*/
+
+@media(min-width: 768px) {
+.carousel-multi-item-2 .col-md-3 {
+float: left;
+width:25%;
+max-width: 100%; } }
+
+.carousel-multi-item-2 .card img {
+border-radius: 2px; }
+
+/*----------------------Footer section -----------------*/
+
+.page-footer {
+    
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+    
+}
+.footer-copyright {
+    text-align: center;
+    color: steelblue;
+}
+.fb-ic{
+    color: steelblue;
+}
+.tw-ic {
+    color: steelblue;
+
+}
+.ins-ic{
+    color: steelblue;
+}
+
+.black-text {
+color: gray;
+
+}
+/*--------------------Locations-------------------*/
+
+.location-container{
+width:auto;
+padding-bottom: 10%;
+padding-top: 10%;
+text-align: center;
+
+
+
+}
+.location-container img{
+    height: 410px;
+     width: 400px;
+    padding-bottom: 5%;
+    padding-top: 10%;
+    
+
+    
+}
+.location-container p {
+    font-family: Oswald;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+   color: #555555;
+   text-align: center;
+   
+    
+}
+
+
+/*-----------------Contact Section---------------------*/
+
+body, html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img1 {
+  /* The image used */
+  background-image: url("http://www.northernfoods.co.nz/wp-content/uploads/2016/04/san-francisco-Jane-Pastries-BAKERY1015.jpg");
+
+  /* Control the height of the image */
+  min-height: 500px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+/* Add styles to the form container */
+.container2 {
+  position: absolute;
+  right: 0;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+  padding-bottom: 0px;
+}
+
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn2 {
+  background-color: steelblue;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+/*--------------Mapps section--------------------*/
+
+
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+margin-left: 15%;
+
+
+}
+.map-container iframe{
+left:0;
+top:0;
+height:80%;
+width:80%;
+position:absolute;
+padding-top: 15%;
+}
+
+
+
+
+
+
+
+
+    
+
