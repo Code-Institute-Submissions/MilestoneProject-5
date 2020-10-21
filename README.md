@@ -98,12 +98,12 @@
     - **W3C Schools**: Web Developer informative Site
 
  ### Commits
- I Implement the use of commits at the beginning and end of the project.   
+ I implement the use of commits at the beginning and end of the project.   
 
  ## Testing
 
  The testing process was carried out by opening the website on a particular device and browser, checking for any visual errors or irregularities, and testing the functions mentioned on 'Testing features'.
-   The project was tested on the devices and browsers listed below.
+ The project was tested on the devices and browsers listed below.
 
  1.Hp 
 
@@ -149,15 +149,14 @@
 
  ## Deployment
 
- This project was created on GitHub and used the GitPod development environment to write the code. To deploy it we have to follow the following steps:
-
- Open the 'Settings' section of the project repository on GitHub.
- From there, click on the 'GitHub Pages' section.
- Selected 'master branch' as ​​a source.
+ This project was created on GitHub and used the GitPod development environment to write the code. 
+ To deploy it we have to follow the following steps:
+ - Open the 'Settings' section of the project repository on GitHub.
+ - From there, click on the 'GitHub Pages' section.
+ - Selected 'master branch' as ​​a source.
  This implemented the project on the GitHub pages and will make it possible to share the website live with other people.
 
- You can find more information about this process at the following link: Set up a publishing source for your GitHub Pages site
-
+ 
  ## Credits
 
  ### Content
