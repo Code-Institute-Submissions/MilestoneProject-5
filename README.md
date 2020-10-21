@@ -1,4 +1,3 @@
-
 ![image](https://user-images.githubusercontent.com/62361039/96745330-52e31c00-13c6-11eb-9925-49852b46e2ee.png)
 
 # `GEMMA COFFEE & BAKERY`
@@ -13,6 +12,7 @@
  This project is about a website for a coffee business. The purpose of this page is to publicize the products and services as well as attract new customers
 
  **User Stories:** 
+
  - Explore the page and get info about the store 
 
  - See the products and prices.
@@ -23,7 +23,9 @@
 
  - Subscribe to news and promotions
 
+
  **Business Goals:** 
+
  - Sellig and promote the products.
 
  - Atracting users and potencial clientes to visit the page.
@@ -32,7 +34,7 @@
 
  - Get updates about "the chossen of the months" and stay informed about the lasted news and offers. 
 
- **Wireframing my project on Balsamic**
+ **Wireframes**
 
  I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clear idea of the project
 
@@ -105,9 +107,9 @@
 
  1.Hp 
 
- Google Chrome
- Firefox
- Explorer
+ - Google Chrome
+ - Firefox
+ - Explorer
 
  2.Macbook 
 
@@ -159,7 +161,7 @@
  ## Credits
 
  ### Content
- - This webpage is completely fictional and was created by myself.
+  This webpage is completely fictional and was created by myself.
 
  ### References
 
@@ -193,6 +195,7 @@
  • I would like to say thank you to my mentor [Can Sucullu](@cans_mentor) for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
 
  • Thank you Codelnstitute's Slack community for the support.
+
 
 
 
